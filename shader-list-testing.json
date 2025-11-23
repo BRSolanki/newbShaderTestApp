@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "title": "Newb X Legacy",
+    "creator": "0_devendrn",
+    "readme": "newb_x_legacy",
+    "screenshots": [
+      "https://media.forgecdn.net/attachments/1067/794/overworld-cave-0.jpg",
+      "https://media.forgecdn.net/attachments/1067/806/underwater-1.jpg",
+      "https://media.forgecdn.net/attachments/1067/805/overworld-sunrise-0.jpg",
+      "https://media.forgecdn.net/attachments/1067/797/overworld-night-1.jpg",
+      "https://media.forgecdn.net/attachments/1067/801/overworld-day-0.jpg"
+    ],
+    "platforms": ["ANDROID", "IOS", "WINDOWS"],
+    "supportedVersion": "1.21.20",
+    "downloadLink": "https://github.com/devendrn/newb-x-mcbe/releases/download/v16/newb-x-legacy-16.0-merged.mcpack",
+    "otherLinks": [
+      { "title": "GitHub", "link": "https://github.com/devendrn/newb-x-mcbe" },
+      { "title": "MCPEDL post", "link": "https://mcpedl.com/newb-shader/" },
+      { "title": "Website", "link": "https://devendrn.github.io/" }
+    ],
+    "tags": ["Low End", "Vanilla+", "Atmospheric"],
+    "description": "The classic look. Soft lighting, vibrant clouds, and water reflections optimized for low-end devices. Maintains the vanilla feel while enhancing atmosphere.",
+    "updated_at": "Oct 2023"
+  },
+  {
+    "id": 1,
+    "title": "Newb Refined",
+    "creator": "0_devendrn",
+    "readme": "newb_refined",
+    "screenshots": [
+      "https://media.forgecdn.net/attachments/1067/803/overworld-night-3.jpg",
+      "https://media.forgecdn.net/attachments/1067/786/overworld-night-2.jpg"
+    ],
+    "platforms": ["ANDROID", "WINDOWS"],
+    "supportedVersion": "1.20.0",
+    "downloadLink": "https://github.com/devendrn/newb-x-mcbe/releases/tag/v16",
+    "otherLinks": [],
+    "tags": ["Ultra", "Cinematic"],
+    "description": "A sharper, more defined version of Newb. Features enhanced shadows, waving plants, and a distinct color correction profile for a cinematic experience.",
+    "updated_at": "Nov 2023"
+  },
+  {
+    "id": 2,
+    "title": "Soft Clouds Addon",
+    "creator": "1_xenon",
+    "readme": "soft_clouds",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1534233650905-52b810e8e6f7?auto=format&fit=crop&q=80&w=800"
+    ],
+    "platforms": ["ANDROID", "IOS", "WINDOWS", "XBOX"],
+    "supportedVersion": "1.19+",
+    "downloadLink": "#",
+    "otherLinks": [],
+    "tags": ["Atmospheric"],
+    "description": "A subpack specifically for softer, fluffier clouds compatible with most other resource packs.",
+    "updated_at": "Sep 2023"
+  }
+]

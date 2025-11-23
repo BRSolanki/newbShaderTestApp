@@ -1,0 +1,15 @@
+{
+  "name": "devendrn",
+  "website": "https://devendrn.github.io",
+  "icon": "https://avatars.githubusercontent.com/u/91605478?v=4",
+  "socials": [
+    { "title": "GitHub",   "link": "https://github.com/devendrn" },
+    { "title": "Discord",  "link": "https://discord.gg/example" },
+    { "title": "YouTube",  "link": "https://youtube.com/@devendrn" },
+    { "title": "Donate",   "link": "https://ko-fi.com/devendrn" }
+  ],
+  "role": "Lead Developer",
+  "location": "India",
+  "bio": "Creator of Newb Shaders. Focused on performance and aesthetics for Bedrock Edition. I love making Minecraft look beautiful on any device.",
+  "verified": true
+}

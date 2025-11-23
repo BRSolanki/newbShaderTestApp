@@ -1,0 +1,12 @@
+{
+  "name": "Xenon",
+  "website": "",
+  "icon": "https://api.dicebear.com/7.x/avataaars/svg?seed=Xenon&backgroundColor=c0aede",
+  "socials": [
+    { "title": "GitHub", "link": "https://github.com/xenon" }
+  ],
+  "role": "Contributor",
+  "location": "USA",
+  "bio": "Helps with sky calculations and fog rendering optimization. Shader enthusiast and code wizard.",
+  "verified": false
+}
