@@ -55,5 +55,157 @@
     "tags": ["Atmospheric"],
     "description": "A subpack specifically for softer, fluffier clouds compatible with most other resource packs.",
     "updated_at": "Sep 2023"
+  },
+  {
+    "id": 3,
+    "title": "Newb Complementary Reimagined",
+    "creator": "2_ale_graphics",
+    "readme": "newb_complementary_reimagined",
+    "screenshots": [
+     "https://media.forgecdn.net/attachments/1314/543/mcpedl-jpg.jpg",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_2.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_3.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_4.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_5.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_6.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_7.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_8.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_9.png",
+      "https://r2.mcpedl.com/submissions/254359/images/newb-complementary-definitive-edition-v14--support-renderdragon-compatible-with-1218025_10.png"
+      
+    ],
+    "platforms": ["ANDROID", "WINDOWS", "IOS"],
+    "supportedVersion": "1.21.111+",
+    "downloadLink": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary",
+    "otherLinks": [
+      {"title": "CurseForge", "link": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary"}
+    ],
+    "tags": ["Complementary", "RenderDragon", "Vibrant"],
+    "description": "A complementary-style variant by Aleeee, inspired by Java complementary shaders with modern lighting and color grading.",
+    "updated_at": "Oct 2025"
+  },
+  {
+    "id": 4,
+    "title": "Newb X Ale Renewed Patch",
+    "creator": "2_ale_graphics",
+    "readme": "newb_x_ale_renewed",
+    "screenshots": [
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_5.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_6.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_7.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_12.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_13.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_14.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_15.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_16.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_17.png",
+      "https://r2.mcpedl.com/submissions/250485/images/newb-x-ale-renewed---support-renderdragon-compatible-with-12162_18.png"
+    ],
+    "platforms": ["ANDROID", "WINDOWS", "IOS"],
+    "supportedVersion": "1.21.90+",
+    "downloadLink": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale-renewed-patch",
+    "otherLinks": [
+      {"title": "CurseForge", "link": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale-renewed-patch"}
+    ],
+    "tags": ["Ultra", "Realistic", "ESTN-like"],
+    "description": "Renewed version of Newb X Ale by Aleeee — replicates ESTN, Super Duper and Ultra Realism shaders.",
+    "updated_at": "Jul 2025"
+  },
+  {
+    "id": 5,
+    "title": "Newb X Dawn Reimagined",
+    "creator": "2_ale_graphics",
+    "readme": "newb_x_dawn_reimagined",
+    "screenshots": [
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_2.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_3.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_4.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_5.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_10.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_11.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_12.png",
+      "https://r2.mcpedl.com/submissions/238409/images/newb-x-dawn-shader--support-renderdragon-compatible-with-12151_13.png"
+    ],
+    "platforms": ["ANDROID", "WINDOWS", "IOS"],
+    "supportedVersion": "1.21.111+",
+    "downloadLink": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn",
+    "otherLinks": [
+      {"title": "CurseForge", "link": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn"}
+    ],
+    "tags": ["Dawn", "Warm Lighting", "Atmospheric"],
+    "description": "Warm and atmospheric “Dawn” shader variant by Aleeee, optimized for RenderDragon.",
+    "updated_at": "Oct 2025"
+  },
+  {
+    "id": 6,
+    "title": "Newb X Dragon Complementary",
+    "creator": "2_ale_graphics",
+    "readme": "newb_x_dragon_complementary",
+    "screenshots": [
+      "https://r2.mcpedl.com/submissions/248219/images/newb-x-dragon-complementary-definitive-edition--support-renderdragon-compatible-with-12161_2.png",
+      "https://r2.mcpedl.com/submissions/248219/images/newb-x-dragon-complementary-definitive-edition--support-renderdragon-compatible-with-12161_3.png",
+      "https://r2.mcpedl.com/submissions/248219/images/newb-x-dragon-complementary-definitive-edition--support-renderdragon-compatible-with-12161_4.png",
+      "https://r2.mcpedl.com/submissions/248219/images/newb-x-dragon-complementary-definitive-edition--support-renderdragon-compatible-with-12161_16.png",
+      "https://r2.mcpedl.com/submissions/248219/images/newb-x-dragon-complementary-definitive-edition--support-renderdragon-compatible-with-12161_17.png",
+      "https://r2.mcpedl.com/submissions/248219/images/newb-x-dragon-complementary-definitive-edition--support-renderdragon-compatible-with-12161_18.png"
+    ],
+    "platforms": ["ANDROID", "WINDOWS", "IOS"],
+    "supportedVersion": "1.21.111+",
+    "downloadLink": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon",
+    "otherLinks": [
+      {"title": "CurseForge", "link": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon"}
+    ],
+    "tags": ["Dragon", "Complementary", "Cinematic"],
+    "description": "Dragon-inspired complementary shader by Aleeee, combining Java-style lighting with cinematic effects.",
+    "updated_at": "Oct 2025"
+  },
+  {
+    "id": 7,
+    "title": "Newb X Trailer",
+    "creator": "2_ale_graphics",
+    "readme": "newb_x_trailer",
+    "screenshots": [
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_2.png",
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_3.png",
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_4.png",
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_5.png",
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_6.png",
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_7.png",
+      "https://r2.mcpedl.com/submissions/238239/images/newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12150_8.png"
+    ],
+    "platforms": ["ANDROID", "WINDOWS", "IOS"],
+    "supportedVersion": "1.21.111+",
+    "downloadLink": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-trailer",
+    "otherLinks": [
+      {"title": "CurseForge", "link": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-trailer"}
+    ],
+    "tags": ["Trailer", "Cinematic", "Bright"],
+    "description": "Inspired by the Minecraft Village & Pillage 1.14 trailer, this shader brings cinematic lighting and vibrant skies.",
+    "updated_at": "Oct 2025"
+  },
+  {
+    "id": 8,
+    "title": "Newb X Stars",
+    "creator": "2_ale_graphics",
+    "readme": "newb_x_stars",
+    "screenshots": [
+      "https://media.forgecdn.net/attachments/1319/183/mcpedl-jpg.jpg",
+      "https://media.forgecdn.net/attachments/description/1248967/description_3a3ca7ee-a658-48c7-9a8a-ea281d17a3ef.png",
+      "https://media.forgecdn.net/attachments/description/1248967/description_1e4e4758-5b2d-4dee-82c6-0ca1681b82fa.png",
+      "https://media.forgecdn.net/attachments/description/1248967/description_1a322097-be0c-4262-a414-2a464d11c7cf.png",
+      "https://media.forgecdn.net/attachments/description/1248967/description_5ed38adb-d312-44ad-b4ed-e92339bab80e.png",
+      "https://media.forgecdn.net/attachments/description/1248967/description_3810f09f-66f6-46a8-af83-1ea0dcac0315.png",
+      "https://media.forgecdn.net/attachments/description/1248967/description_0ec819d4-b1b8-44c9-9e43-b2f25c00a9c0.png",
+      "https://media.forgecdn.net/attachments/description/1248967/description_bd345ade-0585-4192-b0c2-14f49025f2bb.png"
+    ],
+    "platforms": ["ANDROID", "WINDOWS", "IOS"],
+    "supportedVersion": "1.21.100+",
+    "downloadLink": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars",
+    "otherLinks": [
+      {"title": "CurseForge", "link": "https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars"}
+    ],
+    "tags": ["Stars", "Aurora", "Low-Resource"],
+    "description": "Star-themed variant by Aleeee, with auroras, sparkling blocks and a dreamy night sky.",
+    "updated_at": "Oct 2025"
   }
 ]
